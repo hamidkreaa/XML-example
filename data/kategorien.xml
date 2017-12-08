@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalog SYSTEM "categories.dtd">
+<kategorien> 
+	<kategori>
+		<id>5</id>
+		<kategori_name>Datenbanken</kategori_name>
+	</kategori>
+	<kategori>
+		<id>9</id>
+		<kategori_name>IT Adminstrator</kategori_name>
+	</kategori>
+	<kategori>
+		<id>1</id>
+		<kategori_name>Programmierung</kategori_name>
+	</kategori>
+	<kategori>
+		<id>4</id>
+		<kategori_name>Web Design</kategori_name>
+	</kategori>
+	<kategori>
+		<id>2</id>
+		<kategori_name>Web Programmierung</kategori_name>
+	</kategori>
+	<kategori>
+		<id>3</id>
+		<kategori_name>Web Technologien</kategori_name>
+	</kategori>
+</kategorien>

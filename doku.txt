@@ -1,0 +1,18 @@
+Klausurprojekt XML1
+
+Ich habe eine Website für eine EDV-Schule entwickelt mit XHTML, CSS3, JavaScript, jQuery,  XML, XSLT, DTD, SVG , Ajax und  DOM Webtechnologien.
+   Thema:_____________ EDV-Schule – XML Website___________________  
+ 
+Mine Website:
+  1. Eine HTML Seite (seite1.html)
+  2. Eine externe CSS-Datei( css/style.css).
+  3. Einige SVG Grafiken (bilder/svg1.svg).
+  4. Ein Kopfbild  platziert auf der ordner bider (dossombs.png).
+  5. Ordner-Struktur (css, javascript, bilder, data(xml, dtd, xslt))
+  6. XML-Dateien (seminare.xml-kategorien.xml-nimmt_teil.xml).
+  7. Die DTD Dateien (categories.dtd-seminare.dtd).
+  8. Die XSLT Dateien (xsl_choose.xsl).
+
+ 
+ 
+  

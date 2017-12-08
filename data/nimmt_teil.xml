@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<teilnehmer>
+	<nehmer>
+		<seminar_id>1</seminar_id>
+		<name>John Due</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>1</seminar_id>
+		<name>Mark Towin</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>1</seminar_id>
+		<name>Lena sale</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>1</seminar_id>
+		<name>Maria Kada</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>7</seminar_id>
+		<name>Boda Sow</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>1</seminar_id>
+		<name>Nizar Ali</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>2</seminar_id>
+		<name>Mhd Noah</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>2</seminar_id>
+		<name>Malik Ben</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>2</seminar_id>
+		<name>Falco Tree</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>2</seminar_id>
+		<name>Morino Yak</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>3</seminar_id>
+		<name>Nadi Awad</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>3</seminar_id>
+		<name>Rami Nat</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>3</seminar_id>
+		<name>Shadi Bei</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>9</seminar_id>
+		<name>Leda Hei</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>4</seminar_id>
+		<name>Tores Far</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>4</seminar_id>
+		<name>Jako Nai</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>4</seminar_id>
+		<name>3</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>4</seminar_id>
+		<name>4</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>4</seminar_id>
+		<name>6</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>4</seminar_id>
+		<name>10</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>5</seminar_id>
+		<name>5</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>5</seminar_id>
+		<name>9</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>5</seminar_id>
+		<name>10</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>6</seminar_id>
+		<name>1</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>6</seminar_id>
+		<name>2</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>6</seminar_id>
+		<name>3</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>6</seminar_id>
+		<name>6</name>
+	</nehmer>
+	<nehmer>
+		<seminar_id>6</seminar_id>
+		<name>9</name>
+	</nehmer>
+</teilnehmer>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/style.css"/>
+	<script type="text/javascript" src="javascript/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="javascript/js1.js"></script>
+</head>
+
+<body onload="loadDoc('data/seminare.xml')">
+
+	<div class="header">
+		<img src ="bilder/dossombs.png">
+	  <h1>EDV Schule</h1>
+	</div>
+
+	<div class="clearfix">
+	  <div class="column menu">
+		<ul>
+		  <li onclick="loadDoc('data/seminare.xml')">Seminare</li>	  
+		  <li onclick="displayResult();">Kategorien</li>
+		  <li onclick="displaySVG();">SVG</li>
+		  <li><a href="data/doku.html">Dokumantation</a></li>     
+		</ul>	
+	  </div>
+
+	  <div class="column content">
+		 <div id="example"></div>
+		 <div id="seminar">
+			<h1>Die EDV Schule Seminare</h1>
+			<button type="button" onclick="loadDoc('data/seminare.xml')">schau alle Seminare</button>
+			<input type="text" id="title" placeholder="Title" oninput="filter(this)">
+			<input type="text" id="kategoriName" placeholder="Kategorie" oninput="filter(this)">
+			<br><br>
+		</div>
+		<table id="demo"></table>
+		<div id="center">
+			<table id="demo1"></table>
+		</div>
+	  </div>
+	</div>
+
+	<div class="footer">
+	  <p>&copy; EDV Dos Sombreros Schule By Kreaa A- Berlin 2017.</p>
+	</div>
+
+</body>
+</html>

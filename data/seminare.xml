@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalog SYSTEM "seminare.dtd">
+<seminare>	
+	<seminar>
+		<id>1</id>
+		<titel>PHP Grundlagen</titel>
+		<beschreibung>PHP Grundlagen Beschreibung ...</beschreibung>
+		<preis>1990.50</preis>
+		<kategorie_id>2</kategorie_id>
+	</seminar>
+	<seminar>
+		<id>2</id>
+		<titel>PHP OOP</titel>
+		<beschreibung>PHP OOP Beschreibung ...</beschreibung>
+		<preis>2560.30</preis>
+		<kategorie_id>2</kategorie_id>
+	</seminar>
+	<seminar>
+		<id>3</id>
+		<titel>MYSQL Grundlagen</titel>
+		<beschreibung>MYSQL Grundlagen Beschreibung ...</beschreibung>
+		<preis>2340.50</preis>
+		<kategorie_id>5</kategorie_id>
+	</seminar>
+	<seminar>
+		<id>4</id>
+		<titel>MYSQL Advanced</titel>
+		<beschreibung>MYSQL Advanced Beschreibung ...</beschreibung>
+		<preis>990.50</preis>
+		<kategorie_id>5</kategorie_id>
+	</seminar>
+	<seminar>
+		<id>5</id>
+		<titel>Java Programmierung</titel>
+		<beschreibung>Java Programmierung Beschreibung ...</beschreibung>
+		<preis>2340.50</preis>
+		<kategorie_id>1</kategorie_id>
+	</seminar>
+	<seminar>
+		<id>6</id>
+		<titel>HTML Grundlagen</titel>
+		<beschreibung>HTML Grundlagen Beschreibung ...</beschreibung>
+		<preis>1720.50</preis>
+		<kategorie_id>3</kategorie_id>
+	</seminar>
+	<seminar>
+		<id>7</id>
+		<titel>CSS Grundlagen</titel>
+		<beschreibung>CSS Grundlagen Beschreibung ...</beschreibung>
+		<preis>2190.50</preis>
+		<kategorie_id>4</kategorie_id>
+	</seminar>
+	<seminar>
+		<id>8</id>
+		<titel>JavaScript</titel>
+		<beschreibung>JavaScript Grundlagen Beschreibung ...</beschreibung>
+		<preis>3450.50</preis>
+		<kategorie_id>2</kategorie_id>
+	</seminar>
+	<seminar>
+		<id>9</id>
+		<titel>XML Grundlagen</titel>
+		<beschreibung>XML Grundlagen Beschreibung ...</beschreibung>
+		<preis>2390.50</preis>
+		<kategorie_id>3</kategorie_id>
+	</seminar>
+	<seminar>
+		<id>10</id>
+		<titel>XSLT Grundlagen</titel>
+		<beschreibung>XSLT Grundlagen Beschreibung ...</beschreibung>
+		<preis>1990.50</preis>
+		<kategorie_id>3</kategorie_id>
+	</seminar>
+	<seminar>
+		<id>11</id>
+		<titel>JQuery Grundlagen</titel>
+		<beschreibung>JQuery Grundlagen Beschreibung ...</beschreibung>
+		<preis>1990.50</preis>
+		<kategorie_id>2</kategorie_id>
+	</seminar>
+	<seminar>
+		<id>19</id>
+		<titel>Typo3 Template</titel>
+		<beschreibung>typo3 und Typo3 wieder und wieder</beschreibung>
+		<preis>2100.00</preis>
+		<kategorie_id>3</kategorie_id>
+	</seminar>
+</seminare>

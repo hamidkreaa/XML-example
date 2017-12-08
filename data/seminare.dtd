@@ -1,0 +1,7 @@
+<!ELEMENT seminare (seminar+)>
+<!ELEMENT seminar (id,titel,beschreibung,preis,kategorie_id)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT titel (#PCDATA)>
+<!ELEMENT beschreibung (#PCDATA)>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
